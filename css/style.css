@@ -1,0 +1,62 @@
+* {
+			margin:0px;
+			padding:0px;
+		}
+
+		body {
+			font: normal 1em Helvetica, Arial sans-serif;
+			color:#333;
+			background-color:#BCD2EE;
+		}
+		
+		h1 {
+			font-size:1.8em;
+			line-height:1.4em;
+			padding:0;
+			margin:0;
+			font-weight:bold;
+		}
+		
+		.content {
+			line-height:18px;
+			margin:3%;
+		}
+
+		.my-info-link {
+			color:#333;
+			padding:2px 2px 1px;
+			font-weight:bold;
+			text-decoration:none;
+			outline:none;
+			border:none;
+		}
+
+		.my-info-link:hover {
+			color:#FDF5E6;
+			background-color:#333;
+		}
+
+
+		.my-info {
+			font-size:1em;
+			line-height:1.2em;
+			padding:4px 0;
+		}
+
+		.helpText {
+			font-size: 0.75em;
+			line-height: 0.75em;
+			
+		}
+
+		.helpTextLink {
+			color:#333;
+			text-decoration: none;
+			outline: none;
+			border: none;
+		}
+
+		.helpTextLink:hover {
+			color:#FDF5E6;
+			background-color:#333;
+		}
